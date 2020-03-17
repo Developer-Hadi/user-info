@@ -14,8 +14,8 @@ const People = (props) => {
             <div className="user-details">
                 <h3>ID: {id} {name}</h3>
                 <p><small>E-mail: {email}</small></p>
-                <p><small>Yearly Income: {income}</small></p>
-                <button onClick={()=> props.handleAddUser(props.user)} className="connect-btn"><FontAwesomeIcon icon={faUser} /> 
+                <p><small>Yearly Income: $ {income}</small></p>
+                <button onClick={()=> props.handleAddUser(props.people)} className="connect-btn"><FontAwesomeIcon icon={faUser} /> 
                 Connect</button>
             </div>
         </div>

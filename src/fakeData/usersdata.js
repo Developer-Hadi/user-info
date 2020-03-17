@@ -1,8 +1,8 @@
 var userdata = [{
     "id": 1,
-    "name": "Mashrafe Mortaza",
+    "name": " Mashrafe Mortaza",
     "username": "Bret",
-    "income": "$ 80,000",
+    "income": 80000,
     "email": "Sincere@april.biz",
     "address": {
       "street": "Kulas Light",
@@ -17,7 +17,7 @@ var userdata = [{
     "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org",
     "company": {
-      "name": "Romaguera-Crona",
+      "name": " Romaguera-Crona",
       "catchPhrase": "Multi-layered client-server neural-net",
       "bs": "harness real-time e-markets"
     },
@@ -25,9 +25,9 @@ var userdata = [{
   },
   {
     "id": 2,
-    "name": "Tamim Iqbal",
+    "name": " Tamim Iqbal",
     "username": "Antonette",
-    "income": "$ 75,000",
+    "income": 78000,
     "email": "Shanna@melissa.tv",
     "address": {
       "street": "Victor Plains",
@@ -42,7 +42,7 @@ var userdata = [{
     "phone": "010-692-6593 x09125",
     "website": "anastasia.net",
     "company": {
-      "name": "Deckow-Crist",
+      "name": " Deckow-Crist",
       "catchPhrase": "Proactive didactic contingency",
       "bs": "synergize scalable supply-chains"
     },
@@ -50,9 +50,9 @@ var userdata = [{
   },
   {
     "id": 3,
-    "name": "Soumya Sarkar",
+    "name": " Soumya Sarkar",
     "username": "Samantha",
-    "income": "$ 50000",
+    "income": 53000,
     "email": "Nathan@yesenia.net",
     "address": {
       "street": "Douglas Extension",
@@ -67,7 +67,7 @@ var userdata = [{
     "phone": "1-463-123-4447",
     "website": "ramiro.info",
     "company": {
-      "name": "Romaguera-Jacobson",
+      "name": " Romaguera-Jacobson",
       "catchPhrase": "Face to face bifurcated interface",
       "bs": "e-enable strategic applications"
     },
@@ -75,9 +75,9 @@ var userdata = [{
   },
   {
     "id": 4,
-    "name": "Musfiqur Rahim",
+    "name": " Musfiqur Rahim",
     "username": "Musfiqur Rahim",
-    "income": "$ 65,000",
+    "income": 62000,
     "email": "Julianne.OConner@kory.org",
     "address": {
       "street": "Hoeger Mall",
@@ -92,7 +92,7 @@ var userdata = [{
     "phone": "493-170-9623 x156",
     "website": "kale.biz",
     "company": {
-      "name": "Robel-Corkery",
+      "name": " Robel-Corkery",
       "catchPhrase": "Multi-tiered zero tolerance productivity",
       "bs": "transition cutting-edge web services"
     },
@@ -100,9 +100,9 @@ var userdata = [{
   },
   {
     "id": 5,
-    "name": "Mahmudullah",
+    "name": " Mahmudullah",
     "username": "Kamren",
-    "income": "$ 50,000",
+    "income": 52000,
     "email": "Lucio_Hettinger@annie.ca",
     "address": {
       "street": "Skiles Walks",
@@ -118,7 +118,7 @@ var userdata = [{
     "phone": "(254)954-1289",
     "website": "demarco.info",
     "company": {
-      "name": "Keebler LLC",
+      "name": " Keebler LLC",
       "catchPhrase": "User-centric fault-tolerant solution",
       "bs": "revolutionize end-to-end systems"
     },
@@ -126,9 +126,9 @@ var userdata = [{
   },
   {
     "id": 6,
-    "name": "Shakib Al Hasan",
+    "name": " Shakib Al Hasan",
     "username": "Leopoldo_Corkery",
-    "income": "$ 95,000",
+    "income": 95000,
     "email": "Karley_Dach@jasper.info",
     "address": {
       "street": "Norberto Crossing",
@@ -143,7 +143,7 @@ var userdata = [{
     "phone": "1-477-935-8478 x6430",
     "website": "ola.org",
     "company": {
-      "name": "Considine-Lockman",
+      "name": " Considine-Lockman",
       "catchPhrase": "Synchronised bottom-line interface",
       "bs": "e-enable innovative applications"
     },
@@ -151,9 +151,9 @@ var userdata = [{
   },
   {
     "id": 7,
-    "name": "Sabbir Rahman",
+    "name": " Sabbir Rahman",
     "username": "Elwyn.Skiles",
-    "income": "$ 35,000",
+    "income": 35000,
     "email": "Telly.Hoeger@billy.biz",
     "address": {
       "street": "Rex Trail",
@@ -168,7 +168,7 @@ var userdata = [{
     "phone": "210.067.6132",
     "website": "elvis.io",
     "company": {
-      "name": "Johns Group",
+      "name": " Johns Group",
       "catchPhrase": "Configurable multimedia task-force",
       "bs": "generate enterprise e-tailers"
     },
@@ -176,9 +176,9 @@ var userdata = [{
   },
   {
     "id": 8,
-    "name": "Mehdi Hasan Miraz",
+    "name": " Mehdi Hasan Miraz",
     "username": "Maxime_Nienow",
-    "income": "$ 50000",
+    "income": 50000,
     "email": "Sherwood@rosamond.me",
     "address": {
       "street": "Ellsworth Summit",
@@ -193,7 +193,7 @@ var userdata = [{
     "phone": "586.493.6943 x140",
     "website": "jacynthe.com",
     "company": {
-      "name": "Abernathy Group",
+      "name": " Abernathy Group",
       "catchPhrase": "Implemented secondary concept",
       "bs": "e-enable extensible e-tailers"
     },
@@ -201,9 +201,9 @@ var userdata = [{
   },
   {
     "id": 9,
-    "name": "Mohammed Saifuddin",
+    "name": " Mohammed Saifuddin",
     "username": "Delphine",
-    "income": "$ 45,000",
+    "income": 42000,
     "email": "Chaim_McDermott@dana.io",
     "address": {
       "street": "Dayna Park",
@@ -218,7 +218,7 @@ var userdata = [{
     "phone": "(775)976-6794 x41206",
     "website": "conrad.com",
     "company": {
-      "name": "Yost and Sons",
+      "name": " Yost and Sons",
       "catchPhrase": "Switchable contextually-based project",
       "bs": "aggregate real-time technologies"
     },
@@ -226,9 +226,9 @@ var userdata = [{
   },
   {
     "id": 10,
-    "name": "Mustafizur Rahman",
+    "name": " Mustafizur Rahman",
     "username": "Moriah.Stanton",
-    "income": "$ 50,000",
+    "income": 45000,
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
@@ -243,7 +243,7 @@ var userdata = [{
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": " Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     },
@@ -252,9 +252,9 @@ var userdata = [{
   ,
   {
     "id": 11,
-    "name": "Mustafizur Rahman",
+    "name": " Liton Das",
     "username": "Moriah.Stanton",
-    "income": "$ 50,000",
+    "income": 65000,
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
@@ -269,18 +269,18 @@ var userdata = [{
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": " Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     },
-    "img": "https://ss.thgim.com/cricket/article27264533.ece/alternates/FREE_330/mustafizur-rahmanjpg",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
   }
   ,
   {
     "id": 12,
-    "name": "Mustafizur Rahman",
+    "name": " Mohammad Mithun",
     "username": "Moriah.Stanton",
-    "income": "$ 50,000",
+    "income": 48000,
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
@@ -295,18 +295,18 @@ var userdata = [{
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": " Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     },
-    "img": "https://ss.thgim.com/cricket/article27264533.ece/alternates/FREE_330/mustafizur-rahmanjpg",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170918/mohammad-mithun.jpg",
   }
   ,
   {
     "id": 13,
-    "name": "Mustafizur Rahman",
+    "name": " Rubel Hossain",
     "username": "Moriah.Stanton",
-    "income": "$ 50,000",
+    "income":  45000,
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
@@ -321,18 +321,18 @@ var userdata = [{
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": " Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     },
-    "img": "https://ss.thgim.com/cricket/article27264533.ece/alternates/FREE_330/mustafizur-rahmanjpg",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170922/rubel-hossain.jpg",
   }
   ,
   {
     "id": 14,
-    "name": "Mustafizur Rahman",
+    "name": " Mossadek Hossain",
     "username": "Moriah.Stanton",
-    "income": "$ 50,000",
+    "income": 50000,
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
@@ -347,18 +347,18 @@ var userdata = [{
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": " Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     },
-    "img": "https://ss.thgim.com/cricket/article27264533.ece/alternates/FREE_330/mustafizur-rahmanjpg",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170909/mosaddek-hossain.jpg",
   }
   ,
   {
     "id": 15,
-    "name": "Mustafizur Rahman",
+    "name": " Abu Jayed",
     "username": "Moriah.Stanton",
-    "income": "$ 50,000",
+    "income": 50000,
     "email": "Rey.Padberg@karina.biz",
     "address": {
       "street": "Kattie Turnpike",
@@ -373,38 +373,13 @@ var userdata = [{
     "phone": "024-648-3804",
     "website": "ambrose.net",
     "company": {
-      "name": "Hoeger LLC",
+      "name": " Hoeger LLC",
       "catchPhrase": "Centralized empowering task-force",
       "bs": "target end-to-end models"
     },
-    "img": "https://ss.thgim.com/cricket/article27264533.ece/alternates/FREE_330/mustafizur-rahmanjpg",
+    "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170927/abu-jayed.jpg",
   }
-  ,
-  {
-    "id": 16,
-    "name": "Mustafizur Rahman",
-    "username": "Moriah.Stanton",
-    "income": "$ 50,000",
-    "email": "Rey.Padberg@karina.biz",
-    "address": {
-      "street": "Kattie Turnpike",
-      "suite": "Suite 198",
-      "city": "Lebsackbury",
-      "zipcode": "31428-2261",
-      "geo": {
-        "lat": "-38.2386",
-        "lng": "57.2232"
-      }
-    },
-    "phone": "024-648-3804",
-    "website": "ambrose.net",
-    "company": {
-      "name": "Hoeger LLC",
-      "catchPhrase": "Centralized empowering task-force",
-      "bs": "target end-to-end models"
-    },
-    "img": "https://ss.thgim.com/cricket/article27264533.ece/alternates/FREE_330/mustafizur-rahmanjpg",
-  }
+  
 ]
 
 export default userdata;
