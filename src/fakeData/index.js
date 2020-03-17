@@ -1,8 +1,6 @@
-import androids from './android';
-import cameras from './camera';
-import laptops from './laptop';
+import userdata from './usersdata';
 
-const fakeData = [...androids, ...cameras, ...laptops];
+const fakeData = [...userdata];
 
 
 const shuffle = a => {
